@@ -10,7 +10,7 @@ My story with code started more than ten years ago, trying to figure out how com
 * 🚀  I'm currently working on: <br/>
 
 [mytable](http://mytable.live)
-A solution for restaurants to manage orders and payments seemlessly using QR codes. <br/>
+A solution for restaurants to manage orders and payments seamlessly using QR codes. <br/>
 [Collabor8](http://collabor8.me)
 A place for musicians from all over the world to collaborate and create music online. <br/>
 [findle](http://findle.live)
