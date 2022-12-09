@@ -9,11 +9,11 @@ My story with code started more than ten years ago, trying to figure out how com
 * ✉️  You can contact me at [renebeltranromero@gmail.com](mailto:renebeltranromero@gmail.com)
 * 🚀  I'm currently working on: <br/>
 
-[mytable](http://mytable.tech)
+[mytable](https://mytable.tech)
 A solution for restaurants to manage orders and payments seamlessly using QR codes. <br/>
-[Collabor8](http://collabor8.me)
+[Collabor8](https://collabor8.me)
 A place for musicians from all over the world to collaborate and create music online. <br/>
-[findle](http://findle.live)
+[findle](https://findle.live)
 A fun daily game. Guess the prompt of a series of AI generated images and mint your unique NFT on the Solana Blockchain. <br/>
 
 ### Skills  
