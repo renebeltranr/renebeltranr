@@ -9,7 +9,7 @@ My story with code started more than ten years ago, trying to figure out how com
 * ✉️  You can contact me at [renebeltranromero@gmail.com](mailto:renebeltranromero@gmail.com)
 * 🚀  I'm currently working on: <br/>
 
-[mytable](http://mytable.live)
+[mytable](http://mytable.tech)
 A solution for restaurants to manage orders and payments seamlessly using QR codes. <br/>
 [Collabor8](http://collabor8.me)
 A place for musicians from all over the world to collaborate and create music online. <br/>
