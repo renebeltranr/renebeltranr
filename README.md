@@ -14,7 +14,7 @@ A solution for restaurants to manage orders and payments seemlessly using QR cod
 [Collabor8](http://collabor8.me)
 A place for musicians from all over the world to collaborate and create music online. <br/>
 [findle](http://findle.live)
-A fun daily game! Guess the prompt of a series of AI generated images and mint your unique NFT on the Solana Blockchain. <br/>
+A fun daily game. Guess the prompt of a series of AI generated images and mint your unique NFT on the Solana Blockchain. <br/>
 
 ### Skills  
 
