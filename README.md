@@ -7,7 +7,10 @@ My story with code started more than ten years ago, trying to figure out how com
 * 🌍  I'm based in Barcelona
 * 🖥️  See my portfolio at [(Under construction)](http://renebeltran.com)
 * ✉️  You can contact me at [renebeltranromero@gmail.com](mailto:renebeltranromero@gmail.com)
-* 🚀  I'm currently working on [mytable](http://mytable.live)
+* 🚀  I'm currently working on:
+* * [mytable](http://mytable.live)
+* * [collabor8](http://collabor8.me)
+* * [findle.live](http://findle.live)
 
 ### Skills  
 
