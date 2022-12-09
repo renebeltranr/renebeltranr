@@ -7,10 +7,14 @@ My story with code started more than ten years ago, trying to figure out how com
 * 🌍  I'm based in Barcelona
 * 🖥️  See my portfolio at [(Under construction)](http://renebeltran.com)
 * ✉️  You can contact me at [renebeltranromero@gmail.com](mailto:renebeltranromero@gmail.com)
-* 🚀  I'm currently working on:
-* * [mytable](http://mytable.live)
-* * [collabor8](http://collabor8.me)
-* * [findle.live](http://findle.live)
+* 🚀  I'm currently working on: <br/>
+
+[mytable](http://mytable.live)
+A Web App for restaurant managers and clients to handle orders and payments seemlessly using QR codes. <br/>
+[Collabor8](http://collabor8.me)
+A place for musicians from all over the world to collaborate and create music online. <br/>
+[findle](http://findle.live)
+A fun daily game where you need to guess the prompt of a series of AI generated images. <br/>
 
 ### Skills  
 
