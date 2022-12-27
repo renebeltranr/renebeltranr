@@ -12,7 +12,7 @@ My story with code started more than ten years ago, trying to figure out how com
 [mytable](https://mytable.tech)
 A solution for restaurants to manage orders and payments seamlessly using QR codes. <br/>
 [Collabor8](https://collabor8.me)
-A place for musicians from all over the world to collaborate and create music online. <br/>
+A place for musicians from all over the world to collaborate and record music online. <br/>
 [findle](https://findle.live)
 A fun daily game. Guess the prompt of a series of AI generated images and mint your unique NFT on the Solana Blockchain. <br/>
 
