@@ -5,7 +5,7 @@
 My story with code started more than ten years ago, trying to figure out how computers and software worked 🤓. After that, I learned a bit of C at school, C++ at Uni and switched to Python for the projects I worked on by myself. Ranging from Telegram bots and domotics into ML. Nowadays I'm more into web development using the MERN stack, but new technology always sparks my interest.
 
 * 🌍  I'm based in Barcelona
-* 🖥️  See my portfolio at [(Under construction)](http://renebeltran.com)
+* 🖥️  See my portfolio at [(Under construction)](http://renebeltran.com).
 * ✉️  You can contact me at [renebeltranromero@gmail.com](mailto:renebeltranromero@gmail.com)
 * 🚀  I'm currently working on: <br/>
 
