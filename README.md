@@ -22,5 +22,5 @@ A fun daily game. Guess the prompt of a series of AI generated images and mint y
 
 ### More
 
-If you want to collaborate in any of my current projects, just drop me a message or fork it away and send a pull request. Contributions are welcome!
+If you want to collaborate in any of my current projects, send me a message or fork the project away and send a pull request. Contributions are welcome!
 
