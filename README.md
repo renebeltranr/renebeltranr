@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) René here
 ###### Software Engineer @Viaplay Group
 
-My story with code started more than ten years ago, trying to figure out how computers and software worked 🤓. After that, I learned a bit of C at school, C++ at Uni and switched to Python for the projects I worked on by myself. Ranging from Telegram bots and domotics into ML. Nowadays I'm more into web development using the MERN stack, but new technology always sparks my interest. Currently emplyed full-time at Viaplay Group as a Software Engineer.
+My story with code started more than ten years ago, trying to figure out how computers and software worked 🤓. After that, I learned a bit of C at school, C++ at Uni and switched to Python for the projects I worked on by myself. Ranging from Telegram bots and domotics into ML. Nowadays I'm more into web development using the MERN stack, but new technology always sparks my interest. Currently employed full-time at Viaplay as a Software Engineer.
 
 * 🌍  I'm based in Barcelona
 * 🖥️  See my portfolio at [(Under construction)](http://renebeltran.com). 
@@ -11,7 +11,7 @@ My story with code started more than ten years ago, trying to figure out how com
 [Collabor8](https://collabor8.me) [on hold]
 A place for musicians from all over the world to collaborate and record music online. <br/>
 [findle](https://findle.live) [beta live, development on hold]
-A fun daily game. Guess the prompt of a series of AI generated images and mint your unique NFT on the Solana Blockchain. <br/>
+A fun daily game. Guess the prompt of a series of AI generated images and mint your unique NFT on the Solana Blockchain.<br/>
 
 ### Skills  
 
